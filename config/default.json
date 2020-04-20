@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://tanisk:6835e0dm@cluster0-lpysr.gcp.mongodb.net/mydb?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
